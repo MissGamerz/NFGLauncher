@@ -3,6 +3,9 @@
 <h1 align="center">NFG Launcher</h1>
 
 <em><h5 align="center">(formerly Electron Launcher)</h5></em>
+<em><h5 align="center">(Forked From Helios Launcher)</h5></em>
+
+---
 
 [<p align="center"><img src="https://img.shields.io/github/actions/workflow/status/dscalzi/HeliosLauncher/build.yml?branch=master&style=for-the-badge" alt="gh actions">](https://github.com/dscalzi/HeliosLauncher/actions) [<img src="https://img.shields.io/github/downloads/dscalzi/HeliosLauncher/total.svg?style=for-the-badge" alt="downloads">](https://github.com/dscalzi/HeliosLauncher/releases) <img src="https://forthebadge.com/images/badges/winter-is-coming.svg"  height="28px" alt="winter-is-coming"></p>
 
@@ -31,24 +34,22 @@
 
 This is not an exhaustive list. Download and install the launcher to gauge all it can do!
 
-#### Need Help? [Check the wiki.][wiki]
-
 #### Like the project? Leave a ⭐ star on the repository!
 
 ## Downloads
 
-You can download from [GitHub Releases](https://github.com/dscalzi/HeliosLauncher/releases)
+You can download from [GitHub Releases](https://github.com/MissGamerz/NFGLauncher/HeliosLauncher/releases)
 
 #### Latest Release
 
-[![](https://img.shields.io/github/release/dscalzi/HeliosLauncher.svg?style=flat-square)](https://github.com/dscalzi/HeliosLauncher/releases/latest)
+[![](https://img.shields.io/github/release/MissGamerz/NFGLauncher.svg?style=flat-square)](https://github.com/MissGamerz/NFGLauncher/HeliosLauncher/releases/latest)
 
 #### Latest Pre-Release
-[![](https://img.shields.io/github/release/dscalzi/HeliosLauncher/all.svg?style=flat-square)](https://github.com/dscalzi/HeliosLauncher/releases)
+[![](https://img.shields.io/github/release/MissGamerz/NFGLauncher/all.svg?style=flat-square)](https://github.com/MissGamerz/NFGLauncher/HeliosLauncher/releases)
 
 **Supported Platforms**
 
-If you download from the [Releases](https://github.com/dscalzi/HeliosLauncher/releases) tab, select the installer for your system.
+If you download from the [Releases](https://github.com/MissGamerz/NFGLauncher/releases) tab, select the installer for your system.
 
 | Platform | File |
 | -------- | ---- |
