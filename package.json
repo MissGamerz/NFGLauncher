@@ -1,6 +1,6 @@
 {
   "name": "nfglauncher",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "productName": "NFG Launcher",
   "description": "Modded Minecraft Launcher",
   "author": "NFG",
@@ -46,6 +46,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dscalzi/HeliosLauncher.git"
+    "url": "git+https://github.com/MissGamerz/NFGLauncher.git"
   }
 }

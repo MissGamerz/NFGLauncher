@@ -4,15 +4,15 @@
 title = "NFG Launcher"
 
 [ejs.landing]
-mediaGitHubURL = "https://github.com/dscalzi/HeliosLauncher"
+mediaGitHubURL = "https://github.com/MissGamerz/NFGLauncher"
 mediaTwitterURL = "#"
 mediaInstagramURL = "#"
 mediaYouTubeURL = "#"
 mediaDiscordURL = "https://discord.gg/zNWUXdt"
 
 [ejs.settings]
-sourceGithubLink = "https://github.com/dscalZi/HeliosLauncher"
-supportLink = "https://github.com/dscalZi/HeliosLauncher/issues"
+sourceGithubLink = "https://github.com/MissGamerz/NFGLauncher"
+supportLink = "https://github.com/MissGamerz/NFGLauncher/issues"
 
 [ejs.welcome]
 welcomeHeader = "WELCOME TO NFG"
