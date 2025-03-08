@@ -44,8 +44,7 @@ You can download from [GitHub Releases](https://github.com/MissGamerz/NFGLaunche
 
 [![](https://img.shields.io/github/release/MissGamerz/NFGLauncher.svg?style=flat-square)](https://github.com/MissGamerz/NFGLauncher/HeliosLauncher/releases/latest)
 
-#### Latest Pre-Release
-[![](https://img.shields.io/github/release/MissGamerz/NFGLauncher/all.svg?style=flat-square)](https://github.com/MissGamerz/NFGLauncher/HeliosLauncher/releases)
+
 
 **Supported Platforms**
 
