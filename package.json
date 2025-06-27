@@ -1,16 +1,13 @@
 {
   "name": "nfglauncher",
-<<<<<<< Updated upstream
   "version": "1.0.1",
   "productName": "NFG Launcher",
   "description": "Modded Minecraft Launcher",
   "author": "NFG",
-=======
   "version": "1.0.0",
   "productName": "NFG Launcher",
   "description": "Modded Minecraft Launcher",
   "author": "NFG Development",
->>>>>>> Stashed changes
   "license": "UNLICENSED",
   "homepage": "https://networkforgamers.com",
   "bugs": {
