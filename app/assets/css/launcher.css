@@ -3979,6 +3979,6 @@ input:checked + .toggleSwitchSlider:before {
 .rotating {
     animation: rotating 10s linear infinite;
 }
-.settingsTab > *:last-child {
+.settingsTab#settingsTabAccount > *:last-child {
     display: none;
 }
