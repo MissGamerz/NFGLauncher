@@ -2866,7 +2866,10 @@ input:checked + .toggleSwitchSlider:before {
     height: 70px;
     width: auto;
     position: relative;
+<<<<<<< Updated upstream
     border-radius: 0%;
+=======
+>>>>>>> Stashed changes
 }
 
 /* Logo container styles. */
